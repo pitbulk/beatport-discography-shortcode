@@ -1,0 +1,92 @@
+
+div.album-intro h1{
+	font-size: 130%;
+	margin: 0;
+	width: 212px;
+}
+
+album-title {
+	display: left;
+	width: 212px;
+}
+
+div.album-artist {
+	float: right;
+	top: -25px;
+	position: relative;
+	width: auto;
+	text-align: left;
+	max-width: 70%;	
+}
+
+div.tile-image-wrapper {
+	width: 212px;
+	float: left;
+}
+
+div.description {
+	float: right;
+	width: 58%;
+}
+
+table.meta-data {
+	margin: 0 0 1em;
+}
+
+div.description table {
+	width: 100%;
+}
+
+div.description-album {
+	width: auto;
+	float: right;
+}
+
+div.release-tracks {
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+div.release-tracks {
+	background: #ddd;
+	border: 1px solid #d3d3d3;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	padding: 2px;
+}
+
+table.tracks {
+	border: 1px solid rgb(208, 217, 219);
+	margin: 0;
+}
+
+tr.track-odd {
+	background-color: rgb(234, 224, 238);
+}
+
+tr.track-even {
+	background-color: rgb(249, 255, 215);
+}
+
+td.track-number {
+	width: 30px;
+	padding-left: 10px;
+	font-weight: bolder;
+}
+
+td.track-timing {
+	min-width: 110px;
+}
+
+td.track-artists {
+	padding-top: 5px;
+	padding-left: 10px;
+	min-width: 200px;
+}
+
+td.track-price {
+	font-weight: bolder;
+	text-align: right;
+	padding-right: 20px;
+}
+
